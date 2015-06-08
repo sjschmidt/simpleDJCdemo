@@ -4,11 +4,11 @@
 
 * Create a GitHub account by clicking the green Sign Up button in the upper left corner of the page, then come back to this page. 
 
-* To edit this file, click on the file name above, called `README.md`. That's the source code for this file that you're reading.
+* To edit this file, click on the file name above, called `README.md`. That's the source code for this file that you're reading. I expected to be able to edit the file right away and spent some confused time trying before reading the next step.
 
-* Then click the pencil icon in the upper right corner of the source code to edit it.
+* Then click the pencil icon in the upper right corner of the source code to edit it. 
 
-* Make changes to the file! You can preview your changes by clicking the `Preview changes` button at the top left of the editable source code
+* Make changes to the file! You can preview your changes by clicking the `Preview changes` button at the top left of the editable source code. We should have a link at the top that opens a new tab with a screenshotted version of this!
 
 * Once you have made the changes you like, scroll to the bottom of the page. Then click "Propose File Change."
  

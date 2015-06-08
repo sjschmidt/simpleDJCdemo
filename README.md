@@ -15,4 +15,6 @@ Here is an example [link](www.google.com). The text in the [square brackets] bec
 
 * Make changes to the file! You can preview your changes by clicking the `Preview changes` button at the top left of the editable source code
 
-* Once you have made the changes you like, scroll to the bottom of the page. You can leave notes about the changes you made, and then click "Propose File Change."
+* Once you have made the changes you like, scroll to the bottom of the page. Then click "Propose File Change."
+ 
+* Then click the green Pull Request button, and you can leave notes about the changes you made. Click `Create Pull Request` and you're done!

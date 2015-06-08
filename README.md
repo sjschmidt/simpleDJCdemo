@@ -17,4 +17,4 @@
 
 ### Markdown tutorial 
 
-Here is an example [link](www.google.com). The text in the [square brackets] becomes the visible text, the text in the (round parentheses) is the URL that it links to.
+Here is an example [link](http://www.google.com). The text in the [square brackets] becomes the visible text, the text in the (round parentheses) is the URL that it links to.
